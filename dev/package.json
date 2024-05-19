@@ -4,11 +4,14 @@
   "version": "1.0.0",
   "info": "Food and Extras Sharing App",
   "description": "App for sharing food and other extras.\nData provided by MySQL.\nBackend API is hosted at msb-backend.??.com.",
+  "homepage": ".",
+  "sites": {
+     "alpha": "https://1home-v0.vercel.app",
+     "beta": "https://1home-v0-beta.vercel.app",
+     "live": "https://1home.wrightsdesk.com"
+   },
   "private": false,
   "type": "module",
-  "homepage": ".",
-  "livepage": "https://mysharebag.vercel.app",
-  "betapage": "https://mysharebag-prerelease.vercel.app",
   "dependencies": {
     "@contentful/rich-text-html-renderer": "^15.11.1",
     "axios": "^0.27.2",
@@ -84,5 +87,17 @@
   "license": "ISC",
   "devDependencies": {
     "gh-pages": "^3.2.3"
+  },
+  "developer": {
+     "devTeam": "wrightsdesk",
+     "devLead": "Victor Wright",
+     "devEmail": "developer@wrightsdesk.com",
+     "devPhone": "+49 176 4677 4278",
+     "devAddr": "Germany",
+     "devUrl": "https://www.wrightsdesk.com",
+     "devSocial": {
+        "facebook": "https://www.facebook.com/victorwright.de",
+        "whatsapp": "https://wa.me/+4917646774278"
+     }
   }
 }
