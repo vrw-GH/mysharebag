@@ -40,5 +40,5 @@ WBS Coding School, Berlin.
 Project:     My ShareBag
 Date:        Apr 2024
 Developer:   Victor Wright
-Links:       <small><a href="https://vrw-gh.github.io/mysharebag">GH Page</a>&emsp;•&emsp;<a href="https://github.com/vrw-GH/mysharebag">GH Repo</a>&emsp;•&emsp;<a href="https://vrw-gh.github.io/msb-backend/">Backend</a></small>
+Links:       <small><a href="https://vrw-gh.github.io/mysharebag">GH Page</a>&emsp;•&emsp;<a href="https://github.com/vrw-GH/mysharebag">GH Repo</a>&emsp;•&emsp;<a href="https://vrw-gh.github.io/mysharebag-backend/">Backend</a></small>
 </pre>
