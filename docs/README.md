@@ -9,6 +9,8 @@ WBS Coding School, Berlin.
 
 ## Deployments
 
+[![Action Publish Jekyll-GH-PAGE](https://github.com/vrw-GH/mysharebag/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/vrw-GH/mysharebag/actions/workflows/jekyll-gh-pages.yml)
+
 * <span style="color: orange"><b>Current <small>(Beta)</small>:</b> <a href="https://mysharebag-prerelease.vercel.app">mysharebag (vercel-prerelease) <small>v3.1</small></a></span>
 * <span style="color: red">Stable Release: <a href="https://mysharebag.vercel.app">mysharebag (vercel) <small>v3.0</small></a></span>
 * <span style="color: yellow">Back-end: <a href="https://vrw-gh.github.io/msb-backend/">msb-backend <small>v1.0</small></a></span>
